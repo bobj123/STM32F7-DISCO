@@ -1,0 +1,4 @@
+main.c:138:6:ReadButton	0	static
+main.c:242:6:SystemClock_Config	232	static
+main.c:157:5:main	144	static
+main.c:465:6:Error_Handler	0	static

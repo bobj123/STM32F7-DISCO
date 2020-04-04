@@ -1,0 +1,5 @@
+stm32f7xx_hal_msp.c:64:6:HAL_MspInit	8	static
+stm32f7xx_hal_msp.c:86:6:HAL_LTDC_MspInit	56	static
+stm32f7xx_hal_msp.c:167:6:HAL_LTDC_MspDeInit	8	static
+stm32f7xx_hal_msp.c:323:6:HAL_SDRAM_MspInit	48	static
+stm32f7xx_hal_msp.c:407:6:HAL_SDRAM_MspDeInit	8	static
